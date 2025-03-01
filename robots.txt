@@ -1,0 +1,3 @@
+User-agent: *
+# Don't cache the temporarily unavailable status
+Crawl-delay: 1 
